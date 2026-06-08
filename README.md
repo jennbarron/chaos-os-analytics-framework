@@ -13,27 +13,13 @@ Now transitioning into Data + AI-powered Operations with strengths in:
 - Multi-agent AI system architecture  
 - Cross-domain decision logic  
 
-This repository documents my hands-on learning path, portfolio projects, and the systems I’ve built.
-
----
-
-## 📌 Portfolio Highlights
-
-### 🔸 ChaosOS™ — AI Workflow Architecture  
-A real, working multi-agent system I designed in GPT to model and solve complex, multi-domain problems including medical escalation, legal disputes, financial investigations, logistics, and safety reasoning.
-
-### 🔸 SQL Practice Lab (Beginner → Intermediate)  
-A structured SQL progression demonstrating real-world analytics skills: joins, aggregations, subqueries, window functions, and CTEs.
-
-### 🔸 Analytics Workflows  
-Business → data conversion examples, KPI models, and operational decision trees.
-
-### 🔸 AI Ops Labs  
-Experiments in prompt engineering, agent roles, guardrail logic, and automated reasoning flows.
+This repository documents my hands-on learning path, portfolio projects, and the systems I've built.
 
 ---
 
 ## 🧠 ChaosOS™ — System Overview
+
+![ChaosOS Architecture](images/chaosOS-architecture.svg)
 
 ChaosOS is built using a hub-and-spoke architecture similar to modern Data/AI Ops platforms.  
 It centralizes reasoning and distributes work across 33+ domain agents.
@@ -48,6 +34,22 @@ It centralizes reasoning and distributes work across 33+ domain agents.
 
 ### Output Layer
 Consolidated plans, decisions, risk assessments, structured messages, and ops workflows.
+
+---
+
+## 📌 Portfolio Highlights
+
+### 🔸 ChaosOS™ — AI Workflow Architecture  
+A real, working multi-agent system I designed in GPT to model and solve complex, multi-domain problems including medical escalation, legal disputes, financial investigations, logistics, and safety rea[...]
+
+### 🔸 SQL Practice Lab (Beginner → Intermediate)  
+A structured SQL progression demonstrating real-world analytics skills: joins, aggregations, subqueries, window functions, and CTEs.
+
+### 🔸 Analytics Workflows  
+Business → data conversion examples, KPI models, and operational decision trees.
+
+### 🔸 AI Ops Labs  
+Experiments in prompt engineering, agent roles, guardrail logic, and automated reasoning flows.
 
 ---
 
