@@ -1,41 +1,83 @@
-# ChaosOS™ — Multi-Agent AI Workflow System
+# ChaosOS™
 
-ChaosOS is a operational AI framework built entirely in GPT using structured prompt design, domain agents, guardrails, and cross-context routing.
-
-Its purpose:  
-To handle *complex, multi-domain real-world problems* with structure, stability, and auditability.
+Operational intelligence framework for organizing complex information, preserving context, and transforming fragmented knowledge into structured action.
 
 ---
 
-## 🔧 System Architecture
+## Overview
 
-### Core Components
-- **BRG (Bridge Layer)** → Safely routes context between agents
-- **SCX (Shared Context)** → Long-term truths, constraints, stable memory
-- **LifeVaultDB** → Evidence + history storage (timelines, logs, docs)
+ChaosOS is a decision-first knowledge architecture built to support complex, multi-domain problem solving.
 
-### Spokes (Agents)
-33+ domain agents including:
-LEG, HEA/FHEA, PER, MON/FIN, TRV, JOB, COA, REL, SCH/KID, DEC.
+Rather than organizing work around applications or folders, ChaosOS organizes information around decisions. Evidence, timelines, workflows, and supporting context remain connected throughout the entire decision-making process.
 
-Each agent has:
-- A narrow domain  
-- Clear boundaries  
-- No shared memory  
-- Guardrails enforced by BRG  
+The framework combines operational thinking, workflow design, knowledge management, and AI-assisted reasoning into a reusable architecture that supports healthcare advocacy, financial planning, business operations, education, relocation research, career development, and other complex domains.
 
 ---
 
-## 📚 Case Studies
-See `/chaosOS/examples/` for anonymized, real-world scenarios including:
-- Diagnostic escalation  
-- Repo correction  
-- System error detection  
-- Financial forensics  
-- Personal safety reasoning  
-- Job targeting  
+## Core Architecture
 
-Each demonstrates multi-agent reasoning, timeline reconstruction, and structured decision design.
+ChaosOS is built around several core components:
+
+- **Bridge (BRG)** — routes information between specialized domains while preserving context.
+- **Shared Context (SCX)** — maintains long-term memory, reusable knowledge, and operational constraints.
+- **LifeVault** — stores evidence, timelines, documentation, decisions, and supporting records.
+- **Domain Agents** — specialized operational areas including healthcare, finance, legal, education, career, travel, safety, business, and more.
+
+Together these components create a structured operational intelligence system designed to reduce cognitive load while improving decision quality.
+
+---
+
+## Operational Design Principles
+
+ChaosOS follows five guiding principles:
+
+- Information should exist once and be referenced everywhere.
+- Context should travel with every decision.
+- Evidence should remain connected to conclusions.
+- AI should assist structured reasoning—not replace human judgment.
+- Workflows should reduce cognitive load instead of creating additional administrative work.
+
+---
+
+## Repository Contents
+
+| Document | Purpose |
+|-----------|---------|
+| overview.md | High-level framework overview |
+| architecture.md | System architecture and information flow |
+| agent-design.md | Domain agent structure and responsibilities |
+| examples/ | Decision-support case studies |
+
+---
+
+## Example Domains
+
+ChaosOS has been applied to scenarios including:
+
+- Medical advocacy
+- Healthcare care coordination
+- Financial investigations
+- Relocation planning
+- Career strategy
+- Operations improvement
+- Legal documentation
+- Project management
+
+Each demonstrates structured reasoning, timeline reconstruction, evidence management, and operational workflow design.
+
+---
+
+## Relationship to the Portfolio
+
+ChaosOS serves as the architectural foundation for several portfolio projects including:
+
+- CareCommand
+- LifeOps
+- Relocation Intelligence Framework
+- Career Intelligence OS
+- Healthcare QA Operations System
+
+Each project applies the same operational principles to a different real-world problem.
 
 ---
 
