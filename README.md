@@ -35,12 +35,15 @@ These principles form the foundation for every application built from the ChaosO
 
 ## Repository Structure
 
-| Area | Focus |
-|------|------|
-| ChaosOS Architecture | Operational intelligence framework and system design |
-| SQL Analytics Lab | SQL concepts using operational scenarios |
-| Analytics Workflows | KPI design, reporting, and process improvement |
-| AI Ops Labs | Multi-agent reasoning, prompt architecture, and AI-assisted workflows |
+ChaosOS is organized into several complementary components that demonstrate different aspects of operational intelligence, analytics, AI-assisted reasoning, and decision support.
+
+| Component | Purpose |
+|-----------|---------|
+| 🧠 ChaosOS Architecture | Core framework, knowledge architecture, and system design |
+| 🗂 Decision-Support Case Studies | Real-world applications demonstrating structured problem solving |
+| 🗄 SQL Analytics Lab | SQL concepts demonstrated through operational scenarios |
+| 📊 Analytics Workflows | KPI design, reporting, process improvement, and decision support |
+| 🤖 AI Ops Labs | Multi-agent reasoning, prompt architecture, and AI-assisted workflows |
 
 ---
 
@@ -83,6 +86,30 @@ Examples include:
 - Travel safety risk modeling  
 
 Each case demonstrates how the ChaosOS framework reconstructs context, organizes evidence, and supports structured decision-making across complex, multidisciplinary situations.
+
+---
+
+## SQL Analytics Lab
+
+Located in `/sql-practice/`.
+
+This section demonstrates SQL concepts through operational scenarios inspired by the ChaosOS framework rather than generic business examples.
+
+Topics include:
+
+- Query fundamentals
+- Joins
+- Aggregations
+- Subqueries
+- Window functions
+- CASE logic
+- Filtering strategies
+- Common Table Expressions (CTEs)
+- Mini capstone analysis
+
+Each exercise is framed around realistic operational questions such as identifying missing relationships, validating data quality, detecting workflow anomalies, and transforming raw records into actionable insight.
+
+The goal is not simply to demonstrate SQL syntax, but to show how data can be structured to support operational decision-making.
 
 ---
 
