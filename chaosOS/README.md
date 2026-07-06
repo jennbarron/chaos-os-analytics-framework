@@ -14,6 +14,18 @@ The framework combines operational thinking, workflow design, knowledge manageme
 
 ---
 
+## Origin
+
+ChaosOS began as a survival system.
+
+What started as using AI to navigate one crisis quickly became a larger problem: life, school systems, healthcare, finances, documents, decisions, and timelines were all generating more information than memory or scattered chats could manage.
+
+As the complexity grew, the system evolved from individual AI conversations into a structured hub-and-spoke model using GPT, Notion, ClickUp, documentation, and multiple AI tools to preserve context, organize evidence, and support decision-making across domains.
+
+ChaosOS eventually became the foundation for a larger set of decision-support tools designed to simplify complex workflows instead of adding more places to manage information.
+
+---
+
 ## Core Architecture
 
 ChaosOS is built around several core components:
