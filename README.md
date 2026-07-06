@@ -1,19 +1,10 @@
-# Jennifer Barron — Data + AI Operations Portfolio
-Building structured systems for high-complexity, real-world environments using SQL, analytics, and AI-assisted workflow design.
+## Overview
 
----
+ChaosOS™ is an operational intelligence framework designed to organize complex information, preserve context, and transform fragmented knowledge into structured action.
 
-## 👋 About Me
-15+ years in Customer Experience & Operations — managing escalations, regulated workflows, and high-volume support.  
-Now transitioning into Data + AI-powered Operations with strengths in:
+Rather than organizing work by applications or documents, ChaosOS organizes information around decisions. It combines knowledge management, workflow design, AI-assisted reasoning, and operational thinking into a single architecture capable of supporting healthcare advocacy, financial planning, business operations, education, career development, relocation research, and other complex domains.
 
-- Structured analytical reasoning  
-- SQL + BI fundamentals  
-- Workflow modeling & process design  
-- Multi-agent AI system architecture  
-- Cross-domain decision logic  
-
-This repository documents my hands-on learning path, portfolio projects, and the systems I've built.
+Originally developed to manage real-world complexity across multiple areas of life simultaneously, ChaosOS has evolved into the architectural foundation behind every major project in this portfolio, including CareCommand, LifeOps, Relocation Intelligence Framework, and Career Intelligence OS.
 
 ---
 
@@ -21,39 +12,54 @@ This repository documents my hands-on learning path, portfolio projects, and the
 
 ![ChaosOS Architecture](images/chaosOS-architecture.svg)
 
-ChaosOS is built using a hub-and-spoke architecture similar to modern Data/AI Ops platforms.  
-It centralizes reasoning and distributes work across 33+ domain agents.
+## Operational Design Principles
 
-### Core Layers
-- **BRG (Bridge)** — safe routing of context  
-- **SCX** — shared long-term memory  
-- **LifeVaultDB** — evidence, documents, timelines  
+ChaosOS is built around a simple idea:
 
-### Spokes (Agents)
-33+ domain-specific agents including medical (HEA/FHEA), legal (LEG), budgeting (MON/FIN), safety/behavior (PER), travel (TRV), career navigation (JOB), and more.
+> **Reduce decision friction by organizing information around decisions instead of documents.**
 
-### Output Layer
-Consolidated plans, decisions, risk assessments, structured messages, and ops workflows.
+Traditional systems organize work across disconnected applications, folders, notes, and conversations. Context becomes fragmented, information is duplicated, and important decisions lose their supporting evidence over time.
+
+ChaosOS approaches the problem differently by treating every decision as the center of an interconnected knowledge system.
+
+Its architecture is designed around five core principles:
+
+- Information should exist once and be referenced everywhere.
+- Context should travel with every decision.
+- Evidence should remain connected to conclusions.
+- AI should assist structured reasoning—not replace human judgment.
+- Workflows should reduce cognitive load instead of adding administrative overhead.
+
+These principles form the foundation for every application built from the ChaosOS framework.
+---
+
+## Projects Built on the ChaosOS Framework
+
+ChaosOS is the architectural foundation behind several decision-support systems in this portfolio. Each applies the same core principles—structured knowledge, operational workflows, and AI-assisted reasoning—to a different real-world problem.
+
+### CareCommand
+
+An AI-assisted care coordination platform that helps caregivers organize fragmented medical records, appointments, timelines, providers, and advocacy documents into a single operational workflow.
+
+### LifeOps
+
+A financial decision-support platform built around recurring obligations, BNPL tracking, affordability analysis, shared subscriptions, and operational visibility into everyday finances.
+
+### Relocation Intelligence Framework
+
+A weighted decision-support system for evaluating relocation opportunities across healthcare, education, safety, cost of living, employment, and family priorities.
+
+### Career Intelligence OS
+
+A job search operating system that combines resume management, AI-assisted keyword extraction, application tracking, and outcome analytics to improve job search decision making.
+
+### Healthcare QA Operations System
+
+A standardized operational framework for quality assurance, KPI reporting, calibration, and continuous improvement in regulated healthcare operations.
 
 ---
 
-## 📌 Portfolio Highlights
-
-### 🔸 ChaosOS™ — AI Workflow Architecture  
-A real, working multi-agent system I designed in GPT to model and solve complex, multi-domain problems including medical escalation, legal disputes, financial investigations, logistics, and safety rea[...]
-
-### 🔸 SQL Practice Lab (Beginner → Intermediate)  
-A structured SQL progression demonstrating real-world analytics skills: joins, aggregations, subqueries, window functions, and CTEs.
-
-### 🔸 Analytics Workflows  
-Business → data conversion examples, KPI models, and operational decision trees.
-
-### 🔸 AI Ops Labs  
-Experiments in prompt engineering, agent roles, guardrail logic, and automated reasoning flows.
-
----
-
-## 📚 Case Study Library (Anonymized)
+## Decision-Support Case Studies
 Located in `/chaosOS/examples/`.
 
 Examples include:
@@ -65,59 +71,57 @@ Examples include:
 - Job targeting optimization  
 - Travel safety risk modeling  
 
-Each case demonstrates cross-domain reasoning, timeline reconstruction, and structured decision logic.
+Each case demonstrates how the ChaosOS framework reconstructs context, organizes evidence, and supports structured decision-making across complex, multidisciplinary situations.
 
 ---
 
-## 🛠 SQL Practice Lab
-Located in `/sql-practice/`.
+## Analytics Workflows
 
-Covers:
-- Basic SELECT  
-- JOIN logic  
-- Aggregations  
-- Subqueries  
-- CTEs  
-- Window functions  
-- Analytics-style problem solving  
-
-All examples follow a Problem → Query → Insight format.
-
----
-
-## 📊 Analytics Workflows
 Located in `/analytics-workflows/`.
 
-Includes:
-- KPI modeling  
-- Incident tracking logic  
-- Process audits  
-- Decision support patterns  
+This section documents reusable operational analysis patterns used across the ChaosOS framework, including:
+
+- KPI modeling
+- Incident tracking logic
+- Process audits
+- Decision-support patterns
+- Root-cause thinking
+- Operational visibility frameworks
+
+These workflows show how raw information is translated into structured insight and action.
 
 ---
 
-## 🤖 AI Ops Labs
+## AI Ops Labs
+
 Located in `/ai-ops-labs/`.
 
-Focus on:
-- Multi-agent reasoning  
-- Prompt architecture  
-- Ops automation  
-- Guardrail structures  
+This section documents AI-assisted workflow experiments focused on structured reasoning, context routing, and operational support.
+
+Focus areas include:
+
+- Multi-agent reasoning
+- Prompt architecture
+- AI-assisted workflow design
+- Guardrail structures
+- Context preservation
+- Operational automation patterns
+
+AI is treated as a support layer for human judgment, not a replacement for decision-making.
 
 ---
 
-## 📚 Learning Path
-- SQL: DataCamp, Maven Analytics  
-- BI: Excel, Sheets, Tableau basics  
-- AI Ops: ChaosOS, KidOS  
-- GitHub: Version-controlled practice  
+## Connect
+
+**Portfolio**  
+https://jenniferbarron.online
+
+**LinkedIn**  
+https://linkedin.com/in/jenniferbarronbizops
+
+**GitHub**  
+https://github.com/jennbarron
 
 ---
 
-## 📬 Contact
-GitHub: https://github.com/jennbarron  
-LinkedIn: https://www.linkedin.com/in/jennbarronremote/  
-Email: jenniferbarron.remote@gmail.com  
-
-Building Data + AI-powered operations — one workflow, one system, one solved problem at a time.
+*"Organizing complexity into systems that make knowledge easier to find, decisions easier to understand, and action easier to take."*
