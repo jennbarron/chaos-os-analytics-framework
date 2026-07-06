@@ -92,9 +92,3 @@ ChaosOS serves as the architectural foundation for several portfolio projects in
 Each project applies the same operational principles to a different real-world problem.
 
 ---
-
-## 📂 Files
-- `architecture.md` — diagrams + system map  
-- `overview.md` — how ChaosOS works  
-- `agent-design.md` — agent catalog + role definitions  
-- `LifeVault-structure.md` — evidence/timeline design  
