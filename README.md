@@ -33,6 +33,17 @@ Its architecture is designed around five core principles:
 These principles form the foundation for every application built from the ChaosOS framework.
 ---
 
+## Repository Structure
+
+| Area | Focus |
+|------|------|
+| ChaosOS Architecture | Operational intelligence framework and system design |
+| SQL Analytics Lab | SQL concepts using operational scenarios |
+| Analytics Workflows | KPI design, reporting, and process improvement |
+| AI Ops Labs | Multi-agent reasoning, prompt architecture, and AI-assisted workflows |
+
+---
+
 ## Projects Built on the ChaosOS Framework
 
 ChaosOS is the architectural foundation behind several decision-support systems in this portfolio. Each applies the same core principles—structured knowledge, operational workflows, and AI-assisted reasoning—to a different real-world problem.
