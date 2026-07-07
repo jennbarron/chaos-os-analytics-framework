@@ -58,6 +58,7 @@ ChaosOS follows five guiding principles:
 | overview.md | High-level framework overview |
 | architecture.md | System architecture and information flow |
 | agent-design.md | Domain agent structure and responsibilities |
+| LifeVault-structure.md | Evidence organization, timeline structure, and long-term knowledge preservation |
 | examples/ | Decision-support case studies |
 
 ---
